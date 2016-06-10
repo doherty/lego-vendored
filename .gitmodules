@@ -1,0 +1,3 @@
+[submodule "src/github.com/xenolf/lego"]
+	path = src/github.com/xenolf/lego
+	url = https://github.com/xenolf/lego.git
